@@ -10,8 +10,8 @@ Base de dados .csv esta nesse diretorio.
 Depois de ler os dados, seu programa deverá mostrar as seguintes análises (implemente o método toString
 da classe Sale para facilitar):
 
-    * Cinco primeiras vendas de 2016 de maior preço médio, ordenadas decrescentemente por preço médio<br/>
-    * Valor total vendido pelo vendedor Logan nos meses 1 e 7 de qualquer ano<br/>
+*Cinco primeiras vendas de 2016 de maior preço médio, ordenadas decrescentemente por preço médio<br/>
+*Valor total vendido pelo vendedor Logan nos meses 1 e 7 de qualquer ano<br/>
 
 Atenção: use métodos Stream + lambda para extrair os resultados a partir da lista original.<br/>
 Atenção: caso ocorra alguma falha na leitura do arquivo, a exceção deve ser tratada, e mostrada uma mensagem conforme exemplo.<br/>
