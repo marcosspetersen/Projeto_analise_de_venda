@@ -1,4 +1,6 @@
 # Desafio: Análise de vendas (Projeto de Estudo)
+(Projeto de estudo envolvendo, steam, listas, leitura de arquivos e tratamento de exceçoes)
+
 Você deve ler um arquivo .csv contendo uma base de dados de registros
 de venda, e instanciar na memória uma lista de objetos do tipo Sale,
 conforme projeto ao lado (Atenção: não use tipos primitivos int e double
